@@ -2557,6 +2557,132 @@
 		<Monster name="Доска заданий" id="1602" isBoss="False" hp="10000" speciesId="0" />
 		<Monster name="Ардин" id="1603" isBoss="False" hp="10000" speciesId="0" />
 		<Monster name="Стража" id="1700" isBoss="False" hp="807599" speciesId="0" />
+		<Monster name="Телепорт" id="2042" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="Телепорт" id="2043" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="Анапанг" id="3000" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="Доапан" id="3001" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="Тоапан" id="3002" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="Олвирин" id="5801" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="Телепорт" id="10000" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="Телепорт" id="10001" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="Телепорт" id="10002" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="Кроана" id="10010" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="Кессерон" id="10011" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="Бланко" id="10012" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="Энтони" id="10013" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="Эван Томсон" id="10014" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="Томри" id="10020" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="Гурий" id="10021" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="Эреб" id="10030" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="Мириам Багротуча" id="10031" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="Делга" id="10040" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="Блум Бурнорек" id="10041" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="Роберто" id="10050" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="Деспазито" id="10051" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="Аши" id="10060" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="Хиони" id="10070" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="Данжу" id="10071" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="Сергио" id="10080" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="Энрике" id="10081" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="Гавин" id="10090" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="Рекдори" id="10091" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="Шанель Элин" id="10092" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="Данакка" id="10093" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="Дамарун" id="10094" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="Захир" id="10100" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="Харум" id="10110" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="Баруга" id="10111" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="Эрорк" id="10112" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="Куга" id="10113" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="Мариам" id="10120" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="Анетт" id="10121" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="Стив" id="10122" isBoss="False" hp="366797" speciesId="0" />
+		<Monster name="Эклер" id="10123" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="Тартур" id="10130" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="Агракан" id="10131" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="Барак" id="10140" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="Надин" id="10141" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="Надерунг" id="10142" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="Шанк" id="10143" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="Дарам" id="10144" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="Донард V" id="10145" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="Варья" id="10160" isBoss="False" hp="945" speciesId="0" />
+		<Monster name="Гаджуан" id="10170" isBoss="False" hp="945" speciesId="0" />
+		<Monster name="Голланд из Золотых песков" id="11205" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="Страж Балдерона" id="20000" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="Страж Балдерона" id="20001" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="Страж Балдерона" id="20002" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="Страж Балдерона" id="20003" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="Страж Балдерона" id="20004" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="Страж Балдерона" id="20005" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="Страж Балдерона" id="20006" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="Хлоя" id="20102" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="Макс" id="20103" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="Дюк" id="20104" isBoss="False" hp="1" speciesId="0" />
+		<Monster name="Мило" id="20107" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="Ракуни" id="20301" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="Кукури" id="20302" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="Аксти" id="20303" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="Хусти" id="20304" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="Тутуру" id="20305" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="Гяо" id="20306" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="Алиса" id="20400" isBoss="False" hp="5000000" speciesId="0" />
+		<Monster name="Мин" id="20401" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="Кини" id="20402" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="Айлин" id="20403" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="Виолетта" id="20404" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="Милли" id="20405" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="Газз" id="20501" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="Маттин" id="20502" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="Денис" id="20503" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="Эдвард" id="20504" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="Райн" id="20505" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="Роб" id="20506" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="Алисия" id="20601" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="Табеа" id="20602" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="Селина" id="20603" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="Элеана" id="20604" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="Мелания" id="20605" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="Льен" id="20606" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="Авель" id="20608" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="Махар" id="20700" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="Куумба" id="20701" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="Орбак" id="20702" isBoss="False" hp="366797" speciesId="0" />
+		<Monster name="Кайл" id="20703" isBoss="False" hp="366797" speciesId="0" />
+		<Monster name="Росви" id="20704" isBoss="False" hp="366797" speciesId="0" />
+		<Monster name="Эйорр" id="20705" isBoss="False" hp="366797" speciesId="0" />
+		<Monster name="Барака-путешественник" id="20707" isBoss="False" hp="945" speciesId="0" />
+		<Monster name="Барака-путешественник" id="20708" isBoss="False" hp="945" speciesId="0" />
+		<Monster name="Барака-путешественник" id="20709" isBoss="False" hp="945" speciesId="0" />
+		<Monster name="Горга Нактум" id="20800" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="Айлиг" id="20801" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="Гоззак" id="20802" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="Ренай" id="20804" isBoss="False" hp="10001" speciesId="0" />
+		<Monster name="Кумт" id="20805" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="Найла" id="20806" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="Волга" id="20808" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="Горкил" id="20809" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="Арскол" id="20811" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="Селли Адинс" id="20900" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="Лэндон" id="20901" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="Хамфрик" id="20902" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="Фиргус" id="20903" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="Лесли" id="20904" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="Брюс" id="20905" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="Йонмо" id="20906" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="Лоран Понтю" id="20908" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="Шакра Райфол" id="21000" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="Уитни" id="21001" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="Дженни" id="21002" isBoss="False" hp="945" speciesId="0" />
+		<Monster name="Мэрилин" id="21003" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="Элли" id="21004" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="Джоанна" id="21005" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="Сильвия" id="21006" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="Лиаса" id="21008" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="Кровавые врата Резонанса" id="580001" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="Алтарь Резонанса" id="580002" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="Врата Разонанса" id="580003" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="Совершенные Врата Разонанса" id="580004" isBoss="False" hp="10000" speciesId="0" />
 	</Zone>
 	<Zone id="59" name="Кресцентия" >
 		<Monster name="Коранн" id="1001" isBoss="False" hp="10000" speciesId="0" />
@@ -5486,7 +5612,11 @@
 		<Monster name="Вход в Небесный крейсер (сложно)" id="3036" isBoss="False" hp="0" speciesId="0" />
 		<Monster name="Вход в Гнездо Паркин" id="3101" isBoss="False" hp="0" speciesId="0" />
 		<Monster name="Вход в Командный центр" id="3102" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="Вход в Командный центр(соло)" id="3152" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="Вход в лагерь повстанцев(соло)" id="3153" isBoss="False" hp="0" speciesId="0" />
 		<Monster name="Вход в Командный центр" id="3202" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="Вход в Сонный паралич Лукмии" id="3204" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="Вход на Место казни" id="3206" isBoss="False" hp="0" speciesId="0" />
 		<Monster name="Вход на Проклятое судно" id="3320" isBoss="False" hp="0" speciesId="0" />
 		<Monster name="Вход в Бастион Лока" id="5001" isBoss="False" hp="0" speciesId="0" />
 		<Monster name="Вход в Зловещий Особняк" id="5002" isBoss="False" hp="0" speciesId="0" />
@@ -5555,6 +5685,9 @@
 		<Monster name="Вход в крепость Тенебриса" id="9783" isBoss="False" hp="0" speciesId="0" />
 		<Monster name="Вход в Лабораторию Сайрекса" id="9794" isBoss="False" hp="0" speciesId="0" />
 		<Monster name="Вход в Омут Антароса" id="9920" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="Западный Лагерь Балдеры" id="10001" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="Центральный Лагерь Балдеры" id="10002" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="Балдерон" id="10003" isBoss="False" hp="0" speciesId="0" />
 		<Monster name="Станция Келдар" id="18101" isBoss="False" hp="0" speciesId="0" />
 		<Monster name="Хулранский дозор" id="18102" isBoss="False" hp="0" speciesId="0" />
 		<Monster name="Пост Баалдаз" id="18103" isBoss="False" hp="0" speciesId="0" />
@@ -6263,6 +6396,8 @@
 		<Monster name="Гоблин, ответственный за доставку" id="1276" isBoss="False" hp="10000" speciesId="0" />
 		<Monster name="Повозка доставки" id="1277" isBoss="False" hp="91545" speciesId="0" />
 		<Monster name="Варэку" id="1278" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="Доска заданий" id="1400" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="Мистель" id="1401" isBoss="False" hp="10000" speciesId="0" />
 		<Monster name="Мьюрам" id="2001" isBoss="False" hp="10000" speciesId="0" />
 		<Monster name="Омарк" id="2002" isBoss="False" hp="10000" speciesId="0" />
 		<Monster name="Мендон" id="2003" isBoss="False" hp="10000" speciesId="0" />
@@ -6542,7 +6677,7 @@
 		<Monster name="Минкал" id="9161" isBoss="False" hp="10000" speciesId="0" />
 		<Monster name="Каррунг" id="9757" isBoss="False" hp="10000" speciesId="0" />
 	</Zone>
-	<Zone id="201" name="Попория" >
+	<Zone id="201" name="Руинвельд" >
 		<Monster name="Леорикс" id="1001" isBoss="False" hp="0" speciesId="0" />
 		<Monster name="Лемирия" id="1002" isBoss="False" hp="0" speciesId="0" />
 		<Monster name="Тесерит" id="1003" isBoss="False" hp="0" speciesId="0" />
@@ -8222,6 +8357,7 @@
 		<Monster name="Панпантун" id="2000" isBoss="False" hp="10000" speciesId="0" />
 		<Monster name="Какарун" id="2001" isBoss="False" hp="10000" speciesId="0" />
 		<Monster name="Вунри" id="2002" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="Телепорт" id="9010" isBoss="False" hp="343984" speciesId="0" />
 	</Zone>
 	<Zone id="234" name="Вестония" >
 		<Monster name="Чаариса" id="1001" isBoss="False" hp="10000" speciesId="0" />
@@ -9372,7 +9508,7 @@
 		<Monster name="Джилва" id="1007" isBoss="False" hp="10000" speciesId="0" />
 		<Monster name="Мисрил" id="1008" isBoss="False" hp="10000" speciesId="0" />
 	</Zone>
-	<Zone id="358" name="Попория" >
+	<Zone id="358" name="Руинвельд" >
 		<Monster name="Аура" id="1001" isBoss="False" hp="10000" speciesId="0" />
 		<Monster name="Аура" id="1002" isBoss="False" hp="10000" speciesId="0" />
 		<Monster name="Ханчу" id="1101" isBoss="False" hp="10000" speciesId="0" />
@@ -10921,7 +11057,7 @@
 		<Monster name="Харун" id="7002" isBoss="False" hp="945" speciesId="0" />
 	</Zone>
 	<Zone id="453" name="Ущелье Кеззела" >
-		<Monster name="Кеззел" id="999" isBoss="True" hp="9000000000" speciesId="1" />
+		<Monster name="Кеззел" id="999" isBoss="True" hp="6974000000" speciesId="1" />
 		<Monster name="Телепорт" id="1004" isBoss="False" hp="0" speciesId="0" />
 		<Monster name="Телепорт обратно" id="1501" isBoss="False" hp="7874" speciesId="0" />
 		<Monster name="Пенрик" id="4501" isBoss="False" hp="945" speciesId="0" />
@@ -10972,9 +11108,9 @@
 		<Monster name="Победите Нарвульского тералита" id="918" isBoss="False" hp="0" speciesId="0" />
 		<Monster name="Поднимитесь с помощью подъемника и победите Кошмарного Фульминара" id="919" isBoss="False" hp="0" speciesId="0" />
 		<Monster name="Кашар Курдан" id="999" isBoss="False" hp="10000" speciesId="0" />
-		<Monster name="Кошмарный Мефизис" id="1000" isBoss="True" hp="950400000" speciesId="0" />
-		<Monster name="Кошмарный Тантибус" id="1001" isBoss="True" hp="902880000" speciesId="0" />
-		<Monster name="Кошмарный Фульминар" id="1002" isBoss="True" hp="823680000" speciesId="9" />
+		<Monster name="Кошмарный Мефизис" id="1000" isBoss="True" hp="26502880000" speciesId="0" />
+		<Monster name="Кошмарный Тантибус" id="1001" isBoss="True" hp="26902880000" speciesId="0" />
+		<Monster name="Кошмарный Фульминар" id="1002" isBoss="True" hp="54902880000" speciesId="9" />
 		<Monster name="Телепорт обратно" id="4000" isBoss="False" hp="10000" speciesId="0" />
 		<Monster name="Телепорт к Пруду Страха" id="4001" isBoss="False" hp="10000" speciesId="0" />
 		<Monster name="Телепорт в Сокровищницу Фаридея" id="4002" isBoss="False" hp="10000" speciesId="0" />
@@ -11088,9 +11224,9 @@
 		<Monster name="Победите Биора" id="913" isBoss="False" hp="0" speciesId="0" />
 		<Monster name="Победите Бьюрндена" id="914" isBoss="False" hp="0" speciesId="0" />
 		<Monster name="Келлен Кайлум" id="999" isBoss="False" hp="10000" speciesId="0" />
-		<Monster name="Лактос" id="1001" isBoss="True" hp="2200000000" speciesId="0" />
-		<Monster name="Биор" id="1002" isBoss="True" hp="2200000000" speciesId="0" />
-		<Monster name="Бьюрнден" id="1003" isBoss="True" hp="2600000000" speciesId="10" />
+		<Monster name="Лактос" id="1001" isBoss="True" hp="7832000000" speciesId="0" />
+		<Monster name="Биор" id="1002" isBoss="True" hp="7832000000" speciesId="0" />
+		<Monster name="Бьюрнден" id="1003" isBoss="True" hp="11748000000" speciesId="10" />
 		<Monster name="Телепорт" id="1501" isBoss="False" hp="10000" speciesId="0" />
 		<Monster name="Телепорт" id="1502" isBoss="False" hp="10000" speciesId="0" />
 		<Monster name="Дневник моряка" id="2001" isBoss="False" hp="366797" speciesId="0" />
@@ -11252,34 +11388,34 @@
 		<Monster name="Убейте Кошмарного Дуриона" id="913" isBoss="False" hp="0" speciesId="0" />
 		<Monster name="Убейте монстров" id="914" isBoss="False" hp="0" speciesId="0" />
 		<Monster name="Уничтожьте Кошмарное создание Дуриона" id="915" isBoss="False" hp="0" speciesId="0" />
-		<Monster name="Кошмарный сторожевой голем" id="1000" isBoss="True" hp="2400000000" speciesId="7" />
+		<Monster name="Кошмарный сторожевой голем" id="1000" isBoss="True" hp="12040000000" speciesId="7" />
 		<Monster name="Осколок злобного темного голема" id="1001" isBoss="False" hp="1000000" speciesId="0" />
 		<Monster name="Телепорт" id="1501" isBoss="False" hp="10000" speciesId="0" />
 		<Monster name="Телепорт" id="1502" isBoss="False" hp="10000" speciesId="0" />
 		<Monster name="Телепорт" id="1503" isBoss="False" hp="10000" speciesId="0" />
-		<Monster name="Кошмарный Дурион" id="2000" isBoss="True" hp="2200000000" speciesId="0" />
-		<Monster name="Заряженный сабелит" id="2003" isBoss="False" hp="100000" speciesId="0" />
-		<Monster name="Злобный маг кровавого гнева" id="2016" isBoss="False" hp="7300000" speciesId="0" />
-		<Monster name="Злобный архидеванский лучник" id="2017" isBoss="False" hp="7300000" speciesId="0" />
-		<Monster name="Злобный архидеванский жрец" id="2018" isBoss="False" hp="6000000" speciesId="0" />
-		<Monster name="Злобный архидеванский рыцарь" id="2019" isBoss="False" hp="10300000" speciesId="0" />
-		<Monster name="Злобный архидеванский телохранитель" id="2020" isBoss="False" hp="2044000" speciesId="0" />
-		<Monster name="Злобный подопытный-архидеванец" id="2021" isBoss="False" hp="2044000" speciesId="0" />
-		<Monster name="Злобный капитан архидеванских телохранителей" id="2022" isBoss="False" hp="2044000" speciesId="0" />
-		<Monster name="Злобный архидеванский воин" id="2023" isBoss="False" hp="10300000" speciesId="0" />
-		<Monster name="Злобный архидеванский мудрец" id="2027" isBoss="False" hp="6000000" speciesId="0" />
-		<Monster name="Злобный архидеванский снайпер" id="2028" isBoss="False" hp="6000000" speciesId="0" />
-		<Monster name="Злобный архидеванский кровавый рыцарь" id="2030" isBoss="False" hp="8000000" speciesId="0" />
-		<Monster name="Злобный архидеванский мутант" id="2031" isBoss="False" hp="8000000" speciesId="0" />
-		<Monster name="Злобный архидеванский гладиатор" id="2032" isBoss="False" hp="10000000" speciesId="0" />
+		<Monster name="Кошмарный Дурион" id="2000" isBoss="True" hp="12040000000" speciesId="0" />
+		<Monster name="Заряженный сабелит" id="2003" isBoss="False" hp="400000" speciesId="0" />
+		<Monster name="Злобный маг кровавого гнева" id="2016" isBoss="False" hp="34000000" speciesId="0" />
+		<Monster name="Злобный архидеванский лучник" id="2017" isBoss="False" hp="250000" speciesId="0" />
+		<Monster name="Злобный архидеванский жрец" id="2018" isBoss="False" hp="40000000" speciesId="0" />
+		<Monster name="Злобный архидеванский рыцарь" id="2019" isBoss="False" hp="250000" speciesId="0" />
+		<Monster name="Злобный архидеванский телохранитель" id="2020" isBoss="False" hp="40000000" speciesId="0" />
+		<Monster name="Злобный подопытный-архидеванец" id="2021" isBoss="False" hp="40000000" speciesId="0" />
+		<Monster name="Злобный капитан архидеванских телохранителей" id="2022" isBoss="False" hp="40000000" speciesId="0" />
+		<Monster name="Злобный архидеванский воин" id="2023" isBoss="False" hp="250000" speciesId="0" />
+		<Monster name="Злобный архидеванский мудрец" id="2027" isBoss="False" hp="25000000" speciesId="0" />
+		<Monster name="Злобный архидеванский снайпер" id="2028" isBoss="False" hp="25000000" speciesId="0" />
+		<Monster name="Злобный архидеванский кровавый рыцарь" id="2030" isBoss="False" hp="25000000" speciesId="0" />
+		<Monster name="Злобный архидеванский мутант" id="2031" isBoss="False" hp="60000000" speciesId="0" />
+		<Monster name="Злобный архидеванский гладиатор" id="2032" isBoss="False" hp="25000000" speciesId="0" />
 		<Monster name="Сундук с сокровищами" id="2999" isBoss="False" hp="500000" speciesId="0" />
-		<Monster name="Кошмарное создание Дуриона" id="3000" isBoss="True" hp="2800000000" speciesId="0" />
+		<Monster name="Кошмарное создание Дуриона" id="3000" isBoss="True" hp="17060000000" speciesId="0" />
 		<Monster name="Надгробие ненависти" id="3001" isBoss="False" hp="80000" speciesId="0" />
 		<Monster name="Надгробие алчности" id="3002" isBoss="False" hp="80000" speciesId="0" />
 		<Monster name="Надгробие отчаяния" id="3003" isBoss="False" hp="80000" speciesId="0" />
 		<Monster name="Надгробие убийцы" id="3004" isBoss="False" hp="80000" speciesId="0" />
 		<Monster name="Злобный подопытный-демокрон" id="3005" isBoss="False" hp="500000" speciesId="0" />
-		<Monster name="Злобный проклятый архидеванец" id="3007" isBoss="False" hp="13200000" speciesId="0" />
+		<Monster name="Злобный проклятый архидеванец" id="3007" isBoss="False" hp="80000000" speciesId="0" />
 		<Monster name="Устройство блокировки телепортации" id="9007" isBoss="False" hp="13038" speciesId="0" />
 	</Zone>
 	<Zone id="469" name="Воспоминания из Треллум-Консурго" >
@@ -13156,8 +13292,8 @@
 		<Monster name="Убейте монстров" id="912" isBoss="False" hp="0" speciesId="0" />
 		<Monster name="Победите Кошмарного Перимоса" id="913" isBoss="False" hp="0" speciesId="0" />
 		<Monster name="Переместитесь через портал на палубу крейсера и победите Кошмарного Даркана" id="914" isBoss="False" hp="0" speciesId="0" />
-		<Monster name="Даркан" id="1000" isBoss="True" hp="1590967406" speciesId="10" />
-		<Monster name="Даркан" id="1001" isBoss="True" hp="959745024" speciesId="10" />
+		<Monster name="Даркан" id="1000" isBoss="True" hp="11750000000" speciesId="10" />
+		<Monster name="Даркан" id="1001" isBoss="True" hp="8100000000" speciesId="10" />
 		<Monster name="Трулкалат" id="1002" isBoss="False" hp="0" speciesId="0" />
 		<Monster name="Телепорт обратно" id="1501" isBoss="False" hp="10000" speciesId="0" />
 		<Monster name="Телепорт на палубу" id="1502" isBoss="False" hp="10000" speciesId="0" />
@@ -13167,7 +13303,7 @@
 		<Monster name="Воин кровавого гнева" id="91602" isBoss="False" hp="0" speciesId="0" />
 		<Monster name="Маг кровавого гнева" id="91603" isBoss="False" hp="0" speciesId="0" />
 		<Monster name="Мистик кровавого гнева" id="91604" isBoss="False" hp="0" speciesId="0" />
-		<Monster name="Перимос" id="91606" isBoss="True" hp="1490401843" speciesId="0" />
+		<Monster name="Перимос" id="91606" isBoss="True" hp="7832000000" speciesId="0" />
 		<Monster name="Столп эоналиса" id="91618" isBoss="False" hp="110000" speciesId="0" />
 		<Monster name="Столп эоналиса" id="91621" isBoss="False" hp="110000" speciesId="0" />
 		<Monster name="Столп эоналиса" id="91622" isBoss="False" hp="110000" speciesId="0" />
@@ -13176,7 +13312,7 @@
 		<Monster name="Столп эоналиса" id="91625" isBoss="False" hp="110000" speciesId="0" />
 		<Monster name="Столп эоналиса" id="91628" isBoss="False" hp="110000" speciesId="0" />
 		<Monster name="Столп эоналиса" id="91629" isBoss="False" hp="110000" speciesId="0" />
-		<Monster name="Слуга Даркана" id="91638" isBoss="False" hp="76170240" speciesId="0" />
+		<Monster name="Слуга Даркана" id="91638" isBoss="False" hp="300000000" speciesId="0" />
 		<Monster name="Гнилион" id="91650" isBoss="True" hp="478603008" speciesId="0" />
 		<Monster name="Перимос" id="91660" isBoss="False" hp="90000000" speciesId="0" />
 		<Monster name="Квадриллар" id="91671" isBoss="False" hp="33659640" speciesId="0" />
@@ -13572,9 +13708,9 @@
 		<Monster name="Победите Привратника Пещеры." id="916" isBoss="False" hp="0" speciesId="0" />
 		<Monster name="Победите Веспоракса." id="917" isBoss="False" hp="0" speciesId="0" />
 		<Monster name="Победите Колеогга." id="918" isBoss="False" hp="0" speciesId="0" />
-		<Monster name="Ятивио" id="1001" isBoss="True" hp="5683500000" speciesId="0" />
-		<Monster name="Веспоракс" id="1002" isBoss="True" hp="6251850000" speciesId="0" />
-		<Monster name="Колеогг" id="1003" isBoss="True" hp="7009650000" speciesId="0" />
+		<Monster name="Ятивио" id="1001" isBoss="True" hp="7832000000" speciesId="0" />
+		<Monster name="Веспоракс" id="1002" isBoss="True" hp="7832000000" speciesId="0" />
+		<Monster name="Колеогг" id="1003" isBoss="True" hp="11748000000" speciesId="0" />
 		<Monster name="Арахнея Разлома" id="1004" isBoss="True" hp="416000000" speciesId="7" />
 		<Monster name="Арахнея-берсерк" id="1005" isBoss="True" hp="416000000" speciesId="7" />
 		<Monster name="Телепорт в Сад Ятивио" id="1501" isBoss="False" hp="10000" speciesId="0" />
@@ -13739,11 +13875,11 @@
 		<Monster name="Победите Кошмарного Лактоса" id="912" isBoss="False" hp="0" speciesId="0" />
 		<Monster name="Победите Кошмарного Биора" id="913" isBoss="False" hp="0" speciesId="0" />
 		<Monster name="Победите Кошмарного Бьюрндена" id="914" isBoss="False" hp="0" speciesId="0" />
-		<Monster name="Кошмарный Лактос" id="1001" isBoss="True" hp="6500000000" speciesId="0" />
-		<Monster name="Кошмарный Биор" id="1002" isBoss="True" hp="6500000000" speciesId="0" />
-		<Monster name="Кошмарный Бьюрнден" id="1003" isBoss="False" hp="5000000000" speciesId="10" />
-		<Monster name="Кошмарный Лактос" id="1004" isBoss="True" hp="1500000000" speciesId="0" />
-		<Monster name="Кошмарный Биор" id="1005" isBoss="True" hp="1500000000" speciesId="0" />
+		<Monster name="Кошмарный Лактос" id="1001" isBoss="True" hp="14040000000" speciesId="0" />
+		<Monster name="Кошмарный Биор" id="1002" isBoss="True" hp="14040000000" speciesId="0" />
+		<Monster name="Кошмарный Бьюрнден" id="1003" isBoss="False" hp="14060000000" speciesId="10" />
+		<Monster name="Кошмарный Лактос" id="1004" isBoss="True" hp="5500000000" speciesId="0" />
+		<Monster name="Кошмарный Биор" id="1005" isBoss="True" hp="5500000000" speciesId="0" />
 		<Monster name="Телепорт" id="1501" isBoss="False" hp="10000" speciesId="0" />
 		<Monster name="Телепорт" id="1502" isBoss="False" hp="10000" speciesId="0" />
 		<Monster name="Безымянный призрак" id="2008" isBoss="False" hp="1890675" speciesId="0" />
@@ -13782,18 +13918,18 @@
 		<Monster name="Убейте монстров" id="917" isBoss="False" hp="0" speciesId="0" />
 		<Monster name="Победите Келивана" id="918" isBoss="False" hp="0" speciesId="0" />
 		<Monster name="Байрон Гелкан" id="999" isBoss="False" hp="10000" speciesId="0" />
-		<Monster name="Полифемос" id="1000" isBoss="True" hp="1496880000" speciesId="0" />
-		<Monster name="Солдат-самоубийца" id="1001" isBoss="False" hp="80000" speciesId="0" />
-		<Monster name="Штурмовик" id="1002" isBoss="False" hp="50000" speciesId="0" />
-		<Monster name="Проклятый человек" id="1003" isBoss="False" hp="9480912" speciesId="0" />
+		<Monster name="Полифемос" id="1000" isBoss="True" hp="5923000000" speciesId="0" />
+		<Monster name="Солдат-самоубийца" id="1001" isBoss="False" hp="500000" speciesId="0" />
+		<Monster name="Штурмовик" id="1002" isBoss="False" hp="100000" speciesId="0" />
+		<Monster name="Проклятый человек" id="1003" isBoss="False" hp="40000000" speciesId="0" />
 		<Monster name="Ящик с вином" id="1004" isBoss="False" hp="125000" speciesId="0" />
 		<Monster name="Ящик со снарядами" id="1005" isBoss="False" hp="125000" speciesId="0" />
 		<Monster name="Ящик с порохом" id="1006" isBoss="False" hp="125000" speciesId="0" />
 		<Monster name="Дубовая бочка с маслом" id="1007" isBoss="False" hp="125000" speciesId="0" />
-		<Monster name="Солдат-самоубийца" id="1008" isBoss="False" hp="80000" speciesId="0" />
+		<Monster name="Солдат-самоубийца" id="1008" isBoss="False" hp="500000" speciesId="0" />
 		<Monster name="Проклятый человек" id="1009" isBoss="False" hp="9480912" speciesId="0" />
 		<Monster name="Дубовая бочка" id="1010" isBoss="False" hp="150000" speciesId="0" />
-		<Monster name="Слуга Келивана" id="1011" isBoss="False" hp="50000" speciesId="0" />
+		<Monster name="Слуга Келивана" id="1011" isBoss="False" hp="400000" speciesId="0" />
 		<Monster name="Исследователь" id="1013" isBoss="False" hp="5215200" speciesId="0" />
 		<Monster name="Исследователь" id="1014" isBoss="False" hp="5215200" speciesId="0" />
 		<Monster name="Проклятый человек" id="1015" isBoss="False" hp="20000000" speciesId="0" />
@@ -13802,11 +13938,13 @@
 		<Monster name="Телепорт" id="1502" isBoss="False" hp="10000" speciesId="0" />
 		<Monster name="Телепорт" id="1503" isBoss="False" hp="10000" speciesId="0" />
 		<Monster name="Телепорт" id="1504" isBoss="False" hp="10000" speciesId="0" />
-		<Monster name="Пепперо" id="2000" isBoss="True" hp="1328880000" speciesId="1" />
-		<Monster name="Первый помощник капитана" id="2003" isBoss="False" hp="20000000" speciesId="0" />
-		<Monster name="Капитан корабля" id="2004" isBoss="False" hp="80000000" speciesId="0" />
+		<Monster name="Телепорт" id="1505" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="Телепорт" id="1506" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="Пепперо" id="2000" isBoss="True" hp="5923000000" speciesId="1" />
+		<Monster name="Первый помощник капитана" id="2003" isBoss="False" hp="35000000" speciesId="0" />
+		<Monster name="Капитан корабля" id="2004" isBoss="False" hp="120000000" speciesId="0" />
 		<Monster name="Абордажник" id="2005" isBoss="False" hp="10000000" speciesId="0" />
-		<Monster name="Келиван" id="3000" isBoss="True" hp="1454880000" speciesId="0" />
+		<Monster name="Келиван" id="3000" isBoss="True" hp="8884000000" speciesId="0" />
 		<Monster name="Шкипер" id="3002" isBoss="False" hp="15000000" speciesId="0" />
 		<Monster name="Старший абордажник" id="3003" isBoss="False" hp="10000000" speciesId="0" />
 		<Monster name="Танан" id="3004" isBoss="False" hp="100000000" speciesId="0" />
@@ -13875,34 +14013,34 @@
 		<Monster name="Убейте Дуриона" id="913" isBoss="False" hp="0" speciesId="0" />
 		<Monster name="Убейте монстров" id="914" isBoss="False" hp="0" speciesId="0" />
 		<Monster name="Убейте Создание Дуриона" id="915" isBoss="False" hp="0" speciesId="0" />
-		<Monster name="Сторожевой голем" id="1000" isBoss="True" hp="1200000000" speciesId="7" />
+		<Monster name="Сторожевой голем" id="1000" isBoss="True" hp="5923000000" speciesId="7" />
 		<Monster name="Обломок темного голема" id="1001" isBoss="False" hp="1000000" speciesId="0" />
 		<Monster name="Телепорт" id="1501" isBoss="False" hp="10000" speciesId="0" />
 		<Monster name="Телепорт" id="1502" isBoss="False" hp="10000" speciesId="0" />
 		<Monster name="Телепорт" id="1503" isBoss="False" hp="10000" speciesId="0" />
-		<Monster name="Дурион" id="2000" isBoss="True" hp="1200000000" speciesId="0" />
-		<Monster name="Заряженный сабелит" id="2003" isBoss="False" hp="40000" speciesId="0" />
-		<Monster name="Маг кровавого гнева" id="2016" isBoss="False" hp="2500000" speciesId="0" />
-		<Monster name="Архидеванский лучник" id="2017" isBoss="False" hp="2500000" speciesId="0" />
-		<Monster name="Архидеванский жрец" id="2018" isBoss="False" hp="2500000" speciesId="0" />
-		<Monster name="Архидеванский рыцарь" id="2019" isBoss="False" hp="4000000" speciesId="0" />
-		<Monster name="Архидеванский телохранитель" id="2020" isBoss="False" hp="1100000" speciesId="0" />
-		<Monster name="Подопытный-архидеванец" id="2021" isBoss="False" hp="1100000" speciesId="0" />
-		<Monster name="Капитан архидеванских телохранителей" id="2022" isBoss="False" hp="1100000" speciesId="0" />
-		<Monster name="Архидеванский воин" id="2023" isBoss="False" hp="4000000" speciesId="0" />
-		<Monster name="Архидеванский мудрец" id="2027" isBoss="False" hp="2500000" speciesId="0" />
-		<Monster name="Архидеванский снайпер" id="2028" isBoss="False" hp="2500000" speciesId="0" />
-		<Monster name="Архидеванский кровавый рыцарь" id="2030" isBoss="False" hp="3500000" speciesId="0" />
-		<Monster name="Архидеванский мутант" id="2031" isBoss="False" hp="3500000" speciesId="0" />
-		<Monster name="Воин кровавого гнева" id="2032" isBoss="False" hp="1000000" speciesId="0" />
+		<Monster name="Дурион" id="2000" isBoss="True" hp="4523000000" speciesId="0" />
+		<Monster name="Заряженный сабелит" id="2003" isBoss="False" hp="249000" speciesId="0" />
+		<Monster name="Маг кровавого гнева" id="2016" isBoss="False" hp="17000000" speciesId="0" />
+		<Monster name="Архидеванский лучник" id="2017" isBoss="False" hp="250000" speciesId="0" />
+		<Monster name="Архидеванский жрец" id="2018" isBoss="False" hp="20000000" speciesId="0" />
+		<Monster name="Архидеванский рыцарь" id="2019" isBoss="False" hp="250000" speciesId="0" />
+		<Monster name="Архидеванский телохранитель" id="2020" isBoss="False" hp="20000000" speciesId="0" />
+		<Monster name="Подопытный-архидеванец" id="2021" isBoss="False" hp="20000000" speciesId="0" />
+		<Monster name="Капитан архидеванских телохранителей" id="2022" isBoss="False" hp="20000000" speciesId="0" />
+		<Monster name="Архидеванский воин" id="2023" isBoss="False" hp="250000" speciesId="0" />
+		<Monster name="Архидеванский мудрец" id="2027" isBoss="False" hp="20000000" speciesId="0" />
+		<Monster name="Архидеванский снайпер" id="2028" isBoss="False" hp="20000000" speciesId="0" />
+		<Monster name="Архидеванский кровавый рыцарь" id="2030" isBoss="False" hp="20000000" speciesId="0" />
+		<Monster name="Архидеванский мутант" id="2031" isBoss="False" hp="40000000" speciesId="0" />
+		<Monster name="Воин кровавого гнева" id="2032" isBoss="False" hp="20000000" speciesId="0" />
 		<Monster name="Сундук с сокровищами" id="2999" isBoss="False" hp="500000" speciesId="0" />
-		<Monster name="Создание Дуриона" id="3000" isBoss="True" hp="1400000000" speciesId="0" />
+		<Monster name="Создание Дуриона" id="3000" isBoss="True" hp="7584000000" speciesId="0" />
 		<Monster name="Надгробие ненависти" id="3001" isBoss="False" hp="80000" speciesId="0" />
 		<Monster name="Надгробие алчности" id="3002" isBoss="False" hp="80000" speciesId="0" />
 		<Monster name="Надгробие отчаяния" id="3003" isBoss="False" hp="80000" speciesId="0" />
 		<Monster name="Надгробие убийцы" id="3004" isBoss="False" hp="80000" speciesId="0" />
 		<Monster name="Подопытный-демокрон" id="3005" isBoss="False" hp="500000" speciesId="0" />
-		<Monster name="Проклятый архидеванец" id="3007" isBoss="False" hp="6500000" speciesId="0" />
+		<Monster name="Проклятый архидеванец" id="3007" isBoss="False" hp="35000000" speciesId="0" />
 		<Monster name="Устройство блокировки телепортации" id="9007" isBoss="False" hp="13038" speciesId="0" />
 	</Zone>
 	<Zone id="769" name="Замок Лилит" >
@@ -13912,28 +14050,29 @@
 		<Monster name="Телепорт" id="1501" isBoss="False" hp="10000" speciesId="0" />
 		<Monster name="Телепорт" id="1502" isBoss="False" hp="10000" speciesId="0" />
 		<Monster name="Телепорт" id="1503" isBoss="False" hp="10000" speciesId="0" />
-		<Monster name="Маг кровавого гнева" id="2027" isBoss="False" hp="3500000" speciesId="0" />
-		<Monster name="Архидеванский лучник" id="2028" isBoss="False" hp="3500000" speciesId="0" />
-		<Monster name="Архидеванский воин" id="2032" isBoss="False" hp="6000000" speciesId="0" />
-		<Monster name="Морок" id="76901" isBoss="True" hp="1153845000" speciesId="10" />
-		<Monster name="Восковик" id="76902" isBoss="True" hp="1309770000" speciesId="10" />
-		<Monster name="Лилит" id="76903" isBoss="True" hp="1450102500" speciesId="10" />
-		<Monster name="Дух Огня" id="769015" isBoss="False" hp="13111875" speciesId="5" />
+		<Monster name="Телепорт" id="1504" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="Маг кровавого гнева" id="2027" isBoss="False" hp="50000000" speciesId="0" />
+		<Monster name="Архидеванский лучник" id="2028" isBoss="False" hp="50000000" speciesId="0" />
+		<Monster name="Архидеванский воин" id="2032" isBoss="False" hp="50000000" speciesId="0" />
+		<Monster name="Морок" id="76901" isBoss="True" hp="5923000000" speciesId="10" />
+		<Monster name="Восковик" id="76902" isBoss="True" hp="5923000000" speciesId="10" />
+		<Monster name="Лилит" id="76903" isBoss="True" hp="8884000000" speciesId="10" />
+		<Monster name="Дух Огня" id="769015" isBoss="False" hp="50000000" speciesId="5" />
 	</Zone>
 	<Zone id="770" name="Руины Абнукты" >
 		<Monster name="Убейте Воскресшего Атроцитоса" id="911" isBoss="False" hp="0" speciesId="0" />
 		<Monster name="Убейте Воскресшего Малгариоса" id="912" isBoss="False" hp="0" speciesId="0" />
 		<Monster name="Убейте Абнукту." id="913" isBoss="False" hp="0" speciesId="0" />
 		<Monster name="С помощью телепорта переместитесь к Абнукте и убейте ее." id="914" isBoss="False" hp="0" speciesId="0" />
-		<Monster name="Воскресший Атроцитос" id="1000" isBoss="True" hp="1506000000" speciesId="7" />
+		<Monster name="Воскресший Атроцитос" id="1000" isBoss="True" hp="4804000000" speciesId="7" />
 		<Monster name="Воскресший Атроцитос" id="1001" isBoss="False" hp="12670" speciesId="7" />
 		<Monster name="Телепорт" id="1501" isBoss="False" hp="10000" speciesId="0" />
 		<Monster name="Телепорт" id="1502" isBoss="False" hp="10000" speciesId="0" />
 		<Monster name="Телепорт" id="1503" isBoss="False" hp="10000" speciesId="0" />
-		<Monster name="Воскресшая Демония" id="2000" isBoss="True" hp="1380000000" speciesId="7" />
+		<Monster name="Воскресшая Демония" id="2000" isBoss="True" hp="4804000000" speciesId="7" />
 		<Monster name="Голодные паучата" id="2001" isBoss="False" hp="2000000000" speciesId="0" />
 		<Monster name="Паучий кокон" id="2002" isBoss="False" hp="100000" speciesId="0" />
-		<Monster name="Абнукта" id="3000" isBoss="True" hp="1734000000" speciesId="10" />
+		<Monster name="Абнукта" id="3000" isBoss="True" hp="7593000000" speciesId="10" />
 	</Zone>
 	<Zone id="773" name="Эбеновая Башня (сложно)" >
 		<Monster name="Тотем очищения" id="1001" isBoss="False" hp="10000" speciesId="0" />
@@ -14270,12 +14409,12 @@
 		<Monster name="Победите Ренима" id="912" isBoss="False" hp="0" speciesId="0" />
 		<Monster name="Победите Сайрекса" id="913" isBoss="False" hp="0" speciesId="0" />
 		<Monster name="Вагонетка" id="999" isBoss="False" hp="945" speciesId="0" />
-		<Monster name="Хранитель Пещеры" id="1000" isBoss="True" hp="1960000000" speciesId="8" />
+		<Monster name="Хранитель Пещеры" id="1000" isBoss="True" hp="4804000000" speciesId="8" />
 		<Monster name="Телепорт" id="1501" isBoss="False" hp="10000" speciesId="0" />
 		<Monster name="Телепорт" id="1502" isBoss="False" hp="10000" speciesId="0" />
 		<Monster name="Телепорт" id="1503" isBoss="False" hp="10000" speciesId="0" />
-		<Monster name="Реним" id="2000" isBoss="True" hp="2170000000" speciesId="0" />
-		<Monster name="Сайрекс" id="3000" isBoss="True" hp="2520000000" speciesId="0" />
+		<Monster name="Реним" id="2000" isBoss="True" hp="4804000000" speciesId="0" />
+		<Monster name="Сайрекс" id="3000" isBoss="True" hp="7593000000" speciesId="0" />
 		<Monster name="Бидунг" id="5001" isBoss="False" hp="366797" speciesId="0" />
 		<Monster name="Маг кровавого гнева" id="5002" isBoss="False" hp="27000000" speciesId="0" />
 		<Monster name="Архидеванский лучник" id="5003" isBoss="False" hp="23000000" speciesId="0" />
@@ -14548,13 +14687,13 @@
 	</Zone>
 	<Zone id="811" name="Абсцесс" >
 		<Monster name="Телепорт обратно" id="1601" isBoss="False" hp="10000" speciesId="0" />
-		<Monster name="Кракатокс" id="81101" isBoss="True" hp="37071613" speciesId="0" />
-		<Monster name="Талвег" id="81102" isBoss="True" hp="23186100" speciesId="0" />
-		<Monster name="Глобулин" id="81103" isBoss="False" hp="619312" speciesId="0" />
-		<Monster name="Глобулин" id="81108" isBoss="False" hp="519312" speciesId="0" />
-		<Monster name="Глобулин" id="81109" isBoss="False" hp="619312" speciesId="0" />
-		<Monster name="Коагулус" id="81118" isBoss="False" hp="5236399" speciesId="0" />
-		<Monster name="Носитель" id="81125" isBoss="False" hp="809140" speciesId="0" />
+		<Monster name="Кракатокс" id="81101" isBoss="True" hp="15600000000" speciesId="0" />
+		<Monster name="Талвег" id="81102" isBoss="True" hp="11200000000" speciesId="0" />
+		<Monster name="Глобулин" id="81103" isBoss="False" hp="302702702" speciesId="0" />
+		<Monster name="Глобулин" id="81108" isBoss="False" hp="25000000" speciesId="0" />
+		<Monster name="Глобулин" id="81109" isBoss="False" hp="25000000" speciesId="0" />
+		<Monster name="Коагулус" id="81118" isBoss="False" hp="1250000000" speciesId="0" />
+		<Monster name="Носитель" id="81125" isBoss="False" hp="35000000" speciesId="0" />
 	</Zone>
 	<Zone id="813" name="Поляна Древней" >
 		<Monster name="Телепорт обратно" id="1000" isBoss="False" hp="10000" speciesId="0" />
@@ -15875,13 +16014,13 @@
 		<Monster name="Убейте Фрабуса." id="911" isBoss="False" hp="0" speciesId="0" />
 		<Monster name="Уничтожьте Торментум." id="912" isBoss="False" hp="0" speciesId="0" />
 		<Monster name="Убейте Дикого Аслана" id="913" isBoss="False" hp="0" speciesId="0" />
-		<Monster name="Фрабус" id="1000" isBoss="True" hp="3300000000" speciesId="8" />
+		<Monster name="Фрабус" id="1000" isBoss="True" hp="12040000000" speciesId="8" />
 		<Monster name="Телепорт" id="1501" isBoss="False" hp="10000" speciesId="0" />
 		<Monster name="Телепорт" id="1502" isBoss="False" hp="10000" speciesId="0" />
 		<Monster name="Телепорт" id="1503" isBoss="False" hp="10000" speciesId="0" />
 		<Monster name="Телепорт" id="1504" isBoss="False" hp="10000" speciesId="0" />
-		<Monster name="Торментум" id="2000" isBoss="True" hp="3040000000" speciesId="7" />
-		<Monster name="Дикий Аслан" id="3001" isBoss="True" hp="3230000000" speciesId="8" />
+		<Monster name="Торментум" id="2000" isBoss="True" hp="12040000000" speciesId="7" />
+		<Monster name="Дикий Аслан" id="3001" isBoss="True" hp="17060000000" speciesId="8" />
 		<Monster name="Вход в дом" id="4009" isBoss="False" hp="100" speciesId="0" />
 		<Monster name="Оркан-страж" id="5001" isBoss="False" hp="120000000" speciesId="0" />
 		<Monster name="Оркан-страж" id="5002" isBoss="False" hp="120000000" speciesId="0" />
@@ -16033,14 +16172,14 @@
 		<Monster name="Элитный маг кровавого гнева" id="970" isBoss="False" hp="64896000" speciesId="0" />
 		<Monster name="Элитный архидеванский лучник" id="971" isBoss="False" hp="64896000" speciesId="0" />
 		<Monster name="Элитный архидеванский воин" id="972" isBoss="False" hp="64896000" speciesId="0" />
-		<Monster name="Воскресший Даркан" id="1000" isBoss="True" hp="22000000000" speciesId="10" />
+		<Monster name="Воскресший Даркан" id="1000" isBoss="True" hp="14040000000" speciesId="10" />
 		<Monster name="Телепорт" id="1501" isBoss="False" hp="10000" speciesId="0" />
 		<Monster name="Телепорт" id="1502" isBoss="False" hp="10000" speciesId="0" />
 		<Monster name="Телепорт" id="1503" isBoss="False" hp="10000" speciesId="0" />
 		<Monster name="Телепорт" id="1504" isBoss="False" hp="10000" speciesId="0" />
 		<Monster name="Телепорт" id="1505" isBoss="False" hp="10000" speciesId="0" />
-		<Monster name="Воскресший Дурион" id="2000" isBoss="True" hp="22000000000" speciesId="0" />
-		<Monster name="Кровожадный бог Лакан" id="3000" isBoss="True" hp="30000000000" speciesId="4" />
+		<Monster name="Воскресший Дурион" id="2000" isBoss="True" hp="14040000000" speciesId="0" />
+		<Monster name="Кровожадный бог Лакан" id="3000" isBoss="True" hp="21060000000" speciesId="4" />
 		<Monster name="Восстановленный наспех Перимос" id="4000" isBoss="True" hp="2000000000" speciesId="0" />
 		<Monster name="Сеир" id="5000" isBoss="False" hp="10000" speciesId="0" />
 		<Monster name="Скрижаль судьбы" id="5001" isBoss="False" hp="13038" speciesId="0" />
@@ -17103,6 +17242,7 @@
 		<Monster name="Телепорт" id="1501" isBoss="False" hp="10000" speciesId="0" />
 		<Monster name="Телепорт" id="1502" isBoss="False" hp="10000" speciesId="0" />
 		<Monster name="Телепорт" id="1503" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="Телепорт" id="1504" isBoss="False" hp="10000" speciesId="0" />
 		<Monster name="Морщинистый хищник" id="5000" isBoss="False" hp="71747180" speciesId="0" />
 		<Monster name="Усиленный наг-мутант" id="5100" isBoss="True" hp="71747180" speciesId="6" />
 		<Monster name="Кишна" id="6000" isBoss="False" hp="10000" speciesId="0" />
@@ -18330,7 +18470,7 @@
 		<Monster name="Архидеванский воин" id="2032" isBoss="False" hp="2000000" speciesId="0" />
 		<Monster name="Морок" id="76901" isBoss="True" hp="36230736" speciesId="10" />
 		<Monster name="Восковик" id="76902" isBoss="True" hp="40721376" speciesId="10" />
-		<Monster name="Лилит" id="76903" isBoss="True" hp="49983321" speciesId="10" />
+		<Monster name="Лилит" id="76903" isBoss="True" hp="500000000" speciesId="10" />
 		<Monster name="Дух Огня" id="769015" isBoss="False" hp="1288984" speciesId="5" />
 	</Zone>
 	<Zone id="3017" name="Омут Бездушного Антароса (7 чел.)" >
@@ -18470,7 +18610,7 @@
 	</Zone>
 	<Zone id="3027" name="Арена безумия" >
 		<Monster name="Убейте бойца-нежить." id="100" isBoss="False" hp="0" speciesId="0" />
-		<Monster name="Боец-нежить" id="1000" isBoss="True" hp="25089331250" speciesId="0" />
+		<Monster name="Боец-нежить" id="1000" isBoss="True" hp="20000000000" speciesId="0" />
 		<Monster name="Телепорт" id="1502" isBoss="False" hp="10000" speciesId="0" />
 		<Monster name="Телепорт" id="1503" isBoss="False" hp="10000" speciesId="0" />
 		<Monster name="Спрятанная книга" id="6999" isBoss="False" hp="10000" speciesId="0" />
@@ -18666,9 +18806,9 @@
 	</Zone>
 	<Zone id="3036" name="Небесный крейсер Стремление (сложно)" >
 		<Monster name="(Босс) Воспользуйтесь телепортом, чтобы добраться до Небесного крейсера (сложно) и убить Даркана." id="914" isBoss="False" hp="0" speciesId="0" />
-		<Monster name="Даркан (сложно)" id="1000" isBoss="True" hp="38255229568" speciesId="10" />
-		<Monster name="Даркан" id="1001" isBoss="True" hp="22098264375" speciesId="10" />
-		<Monster name="Клон Даркана" id="1010" isBoss="True" hp="300000000" speciesId="10" />
+		<Monster name="Даркан (сложно)" id="1000" isBoss="True" hp="32360535187" speciesId="10" />
+		<Monster name="Даркан" id="1001" isBoss="True" hp="11491097475" speciesId="10" />
+		<Monster name="Клон Даркана" id="1010" isBoss="True" hp="200000000" speciesId="10" />
 		<Monster name="Телепорт" id="1501" isBoss="False" hp="10000" speciesId="0" />
 		<Monster name="Телепорт" id="1502" isBoss="False" hp="10000" speciesId="0" />
 		<Monster name="Телепорт" id="1503" isBoss="False" hp="10000" speciesId="0" />
@@ -18709,6 +18849,13 @@
 		<Monster name="Эффект волшебного камня жреца" id="7001" isBoss="False" hp="0" speciesId="0" />
 		<Monster name="Эффект волшебного камня мистика" id="7002" isBoss="False" hp="0" speciesId="0" />
 	</Zone>
+	<Zone id="3047" name="Обитель Возрожденной Королевы" >
+		<Monster name="Победите Возрожденную Шандру Манайю." id="100" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="Возрожденная Шандра Манайя" id="1000" isBoss="True" hp="31047998720" speciesId="2" />
+		<Monster name="Джелена" id="1101" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="Телепорт" id="1501" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="Телепорт" id="1502" isBoss="False" hp="10000" speciesId="0" />
+	</Zone>
 	<Zone id="3101" name="Гнездо Паркин" >
 		<Monster name="Убейте Ферву" id="911" isBoss="False" hp="0" speciesId="0" />
 		<Monster name="Преодолейте препятствие и остановите насос с сывороткой пробуждения." id="912" isBoss="False" hp="0" speciesId="0" />
@@ -18739,6 +18886,20 @@
 		<Monster name="Телепорт" id="1501" isBoss="False" hp="10000" speciesId="0" />
 		<Monster name="Телепорт" id="1502" isBoss="False" hp="10000" speciesId="0" />
 		<Monster name="Потерянная книга" id="6000" isBoss="False" hp="10000" speciesId="0" />
+	</Zone>
+	<Zone id="3104" name="Сон Лукмии" >
+		<Monster name="Убейте Лукмию." id="100" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="Лукмия" id="1000" isBoss="True" hp="21012400000" speciesId="6" />
+		<Monster name="Телепорт" id="1503" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="Телепорт" id="1504" isBoss="False" hp="10000" speciesId="0" />
+	</Zone>
+	<Zone id="3106" name="Место Казни" >
+		<Monster name="Гардан" id="1000" isBoss="True" hp="21012400000" speciesId="11" />
+		<Monster name="Гардан" id="1001" isBoss="True" hp="62000000000" speciesId="0" />
+		<Monster name="Телепорт" id="5001" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="Велла" id="9000" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="Телепорт" id="9010" isBoss="False" hp="343984" speciesId="0" />
+		<Monster name="Телепорт" id="9011" isBoss="False" hp="343984" speciesId="0" />
 	</Zone>
 	<Zone id="3126" name="Логово Бессмертного Келсаика" >
 		<Monster name="Уничтожьте монстров, стерегущих тоннель перед входом." id="100" isBoss="False" hp="10000" speciesId="0" />
@@ -18771,6 +18932,47 @@
 		<Monster name="Телепорт" id="5001" isBoss="False" hp="10000" speciesId="0" />
 		<Monster name="Телепорт" id="5002" isBoss="False" hp="10000" speciesId="0" />
 	</Zone>
+	<Zone id="3152" name="Командный центр (подземелье испытаний)" >
+		<Monster name="Калигар" id="1000" isBoss="True" hp="550000000" speciesId="6" />
+		<Monster name="Калигар" id="1001" isBoss="False" hp="13038" speciesId="0" />
+		<Monster name="Калигар" id="1002" isBoss="False" hp="13038" speciesId="0" />
+		<Monster name="Калигар" id="1003" isBoss="False" hp="13038" speciesId="0" />
+		<Monster name="Телепорт" id="1503" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="Телепорт" id="1504" isBoss="False" hp="10000" speciesId="0" />
+	</Zone>
+	<Zone id="3153" name="Лагерь повстанцев (подземелье испытаний)" >
+		<Monster name="Победите Крабика." id="913" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="Крабик" id="1000" isBoss="True" hp="510000000" speciesId="8" />
+		<Monster name="Телепорт" id="1501" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="Телепорт" id="1502" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="Телепорт" id="1503" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="Телепорт" id="1504" isBoss="False" hp="10000" speciesId="0" />
+	</Zone>
+	<Zone id="3154" name="Лаборатория Сайрекса(соло)" >
+		<Monster name="Победите Хранителя Пещеры" id="911" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="Победите Ренима" id="912" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="Победите Сайрекса" id="913" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="Вагонетка" id="999" isBoss="False" hp="945" speciesId="0" />
+		<Monster name="Хранитель Пещеры" id="1000" isBoss="True" hp="500000000" speciesId="8" />
+		<Monster name="Телепорт" id="1501" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="Телепорт" id="1502" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="Телепорт" id="1503" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="Реним" id="2000" isBoss="True" hp="2170000000" speciesId="0" />
+		<Monster name="Сайрекс" id="3000" isBoss="True" hp="2520000000" speciesId="0" />
+		<Monster name="Бидунг" id="5001" isBoss="False" hp="366797" speciesId="0" />
+		<Monster name="Маг кровавого гнева" id="5002" isBoss="False" hp="27000000" speciesId="0" />
+		<Monster name="Архидеванский лучник" id="5003" isBoss="False" hp="23000000" speciesId="0" />
+		<Monster name="Архидеванский воин" id="5004" isBoss="False" hp="32000000" speciesId="0" />
+		<Monster name="Архидеванский лучник" id="6001" isBoss="False" hp="4000000" speciesId="0" />
+		<Monster name="Архидеванский лучник" id="6002" isBoss="False" hp="4000000" speciesId="0" />
+		<Monster name="Архидеванский лучник" id="6003" isBoss="False" hp="4000000" speciesId="0" />
+		<Monster name="Командир лагеря" id="6004" isBoss="False" hp="100" speciesId="0" />
+		<Monster name="Гоблин" id="6005" isBoss="False" hp="1000000000" speciesId="0" />
+		<Monster name="Гоблин" id="6006" isBoss="False" hp="1000000000" speciesId="0" />
+		<Monster name="Гоблин" id="6007" isBoss="False" hp="1000000000" speciesId="0" />
+		<Monster name="Подозрительный селянин" id="6008" isBoss="False" hp="100" speciesId="0" />
+		<Monster name="Командир лагеря" id="6009" isBoss="False" hp="100" speciesId="0" />
+	</Zone>
 	<Zone id="3201" name="Гнездо сверкающей Паркин" >
 		<Monster name="Убейте Ферву" id="911" isBoss="False" hp="0" speciesId="0" />
 		<Monster name="Преодолейте препятствие и остановите насос с сывороткой пробуждения." id="912" isBoss="False" hp="0" speciesId="0" />
@@ -18793,12 +18995,27 @@
 	</Zone>
 	<Zone id="3203" name="Арена безумия" >
 		<Monster name="Уничтожьте Бессмертного." id="100" isBoss="False" hp="0" speciesId="0" />
-		<Monster name="Бессмертный" id="1000" isBoss="True" hp="43194817824" speciesId="0" />
+		<Monster name="Бессмертный" id="1000" isBoss="True" hp="20000000000" speciesId="0" />
 		<Monster name="Бессмертный" id="1001" isBoss="True" hp="20089331250" speciesId="0" />
 		<Monster name="Бессмертный" id="1002" isBoss="True" hp="20089331250" speciesId="0" />
 		<Monster name="Телепорт" id="1501" isBoss="False" hp="10000" speciesId="0" />
 		<Monster name="Телепорт" id="1502" isBoss="False" hp="10000" speciesId="0" />
 		<Monster name="Потерянная книга" id="6000" isBoss="False" hp="10000" speciesId="0" />
+	</Zone>
+	<Zone id="3204" name="Сонный паралич Лукмии" >
+		<Monster name="Убейте Лукмию." id="100" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="Кошмарная Лукмия" id="1000" isBoss="True" hp="33060000000" speciesId="6" />
+		<Monster name="Кошмарный приспешник" id="1021" isBoss="False" hp="420000000000" speciesId="0" />
+		<Monster name="Телепорт" id="1503" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="Телепорт" id="1504" isBoss="False" hp="10000" speciesId="0" />
+	</Zone>
+	<Zone id="3206" name="Окровавленное Место Казни" >
+		<Monster name="Кошмарный Гардан" id="1000" isBoss="True" hp="33060000000" speciesId="11" />
+		<Monster name="Кошмарный Гардан" id="1001" isBoss="True" hp="38012400000" speciesId="0" />
+		<Monster name="Телепорт" id="5001" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="Велла" id="9000" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="Телепорт" id="9010" isBoss="False" hp="343984" speciesId="0" />
+		<Monster name="Телепорт" id="9011" isBoss="False" hp="343984" speciesId="0" />
 	</Zone>
 	<Zone id="3300" name="Темница Падшего Бога" >
 		<Monster name="Архидеванский телохранитель" id="820" isBoss="False" hp="15000000" speciesId="0" />
@@ -18870,18 +19087,44 @@
 		<Monster name="Телепорт" id="9782" isBoss="False" hp="10000" speciesId="0" />
 	</Zone>
 	<Zone id="3920" name="Искаженный Омут" >
-		<Monster name="Бездушный Герков" id="1000" isBoss="True" hp="22000000000" speciesId="7" />
+		<Monster name="Бездушный Герков" id="1000" isBoss="True" hp="32360535187" speciesId="7" />
 		<Monster name="Телепорт" id="1501" isBoss="False" hp="10000" speciesId="0" />
 		<Monster name="Телепорт" id="1502" isBoss="False" hp="10000" speciesId="0" />
 		<Monster name="Телепорт" id="1503" isBoss="False" hp="10000" speciesId="0" />
 		<Monster name="Телепорт" id="1504" isBoss="False" hp="10000" speciesId="0" />
 		<Monster name="Бездушный Калиос" id="2000" isBoss="True" hp="22000000000" speciesId="7" />
-		<Monster name="Проклятый Антарос" id="3000" isBoss="True" hp="52000000000" speciesId="4" />
+		<Monster name="Проклятый Антарос" id="3000" isBoss="True" hp="38360535187" speciesId="4" />
 		<Monster name="Безымянное приведение" id="3110" isBoss="False" hp="200000000" speciesId="0" />
 		<Monster name="Вход в Омут Антароса" id="9920" isBoss="False" hp="0" speciesId="0" />
 		<Monster name="Победите Бездушного Геркова." id="92001" isBoss="False" hp="0" speciesId="0" />
 		<Monster name="Победите Бездушного Калиоса." id="92002" isBoss="False" hp="0" speciesId="0" />
 		<Monster name="Победите Бездушного Антароса." id="92003" isBoss="False" hp="0" speciesId="0" />
+	</Zone>
+	<Zone id="3927" name="Плюшевая Арена" >
+		<Monster name="Убейте Увуфну." id="100" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="Увуфна" id="1000" isBoss="True" hp="6974000000" speciesId="0" />
+		<Monster name="Телепорт" id="1502" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="Телепорт" id="1503" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="Спрятанная книга" id="6999" isBoss="False" hp="10000" speciesId="0" />
+	</Zone>
+	<Zone id="3943" name="Жуткий Шпиль Страха" >
+		<Monster name="Стела на 1 этаже" id="101" isBoss="False" hp="100" speciesId="0" />
+		<Monster name="Стела на 2 этаже" id="102" isBoss="False" hp="100" speciesId="0" />
+		<Monster name="Тень Дуриона" id="1000" isBoss="True" hp="2800000000" speciesId="0" />
+		<Monster name="Тень Лукмии" id="2000" isBoss="True" hp="42843859929" speciesId="6" />
+	</Zone>
+	<Zone id="3982" name="Грот Заблудших Душ" >
+		<Monster name="Убейте Злобную Недру" id="911" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="Убейте Злобного Питакума" id="912" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="Убейте Злобного Калеуса" id="913" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="Злобная Недра" id="1000" isBoss="True" hp="34000000000" speciesId="10" />
+		<Monster name="Телепорт" id="1501" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="Телепорт" id="1502" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="Телепорт" id="1503" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="Злобный Питакум" id="2000" isBoss="True" hp="36000000000" speciesId="10" />
+		<Monster name="Злобный Калеус" id="3000" isBoss="True" hp="80000000000" speciesId="3" />
+		<Monster name="Телепорт" id="5001" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="Хранитель алтаря" id="5002" isBoss="False" hp="90000000" speciesId="0" />
 	</Zone>
 	<Zone id="9999" name="unknown" >
 		<Monster name="Авангард" id="9999" isBoss="False" hp="0" speciesId="0" />

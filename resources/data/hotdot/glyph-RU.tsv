@@ -9,7 +9,7 @@
 21010	Ответный удар	130100	icon_skills.risingattack_tex	Усиленный ответный удар	icon_crest.e_crestpassiveattackup_tex	+25% к наносимому умением урону.
 21012	Ответный удар	130100	icon_skills.risingattack_tex	Весомый ответный удар (Удар в прыжке)	icon_crest.e_crestnextskillmpdown_tex	На 75 MP снижает стоимость умения "Удар в прыжке" в течение нескольких секунд.
 21013	Комбо-атака	10100	icon_skills.comboattack_tex	Энергичная комбо-атака	icon_crest.e_crestpassivemprecoveryup_tex	При поражении цели увеличивает количество восстанавливаемых МР на 35%.
-21014	Смерть с небес	100100	icon_skills.evasionattack_tex	Быстрая смерть с небес	icon_crest.e_crestactiveattackspeedup_tex	50% вероятность на 10 секунд повысить скорость атаки на 15%.
+21014	Смерть с небес	100100	icon_skills.evasionattack_tex	Быстрая смерть с небес	icon_crest.e_crestactiveattackspeedup_tex	60% вероятность на 10 секунд повысить скорость атаки на 15%.
 21015	Уклонение	20100	icon_skills.tumbling_tex	Нескончаемое уклонение	icon_crest.e_crestactivecooltimereset_tex	Снижает расход решимости на 100 единиц.
 21016	Круговой удар	170100	icon_skills.stormcut_tex	Стремительный боевой клич	icon_crest.e_crestpassivecooltimedown_tex	Снижает время перезарядки умения на 30%.
 21017	Град ударов	40100	icon_skills.pointattack_tex	Восстанавливающий град ударов	icon_crest.e_crestpassivehpheal_tex	Мгновенно восстанавливает 0,5% HP.
@@ -79,7 +79,7 @@
 21092	Связующий меч	340100	icon_skills.bindingblade_tex	Стремительный связующий меч	icon_crest.e_crestpassivecooltimedown_tex	Снижает время перезарядки умения на 20%.
 21093	Вспышка гнева	350100	icon_skills.provokerage_tex	Замедляющая вспышка гнева	icon_crest.e_crestpassivespeeddown_tex	На 5 секунд снижает скорость перемещения противника на 50%.
 21094	Вспышка гнева	350100	icon_skills.provokerage_tex	Стремительная вспышка гнева	icon_crest.e_crestpassivecooltimedown_tex	Снижает время перезарядки умения на 20%.
-21095	Уклонение	20100	icon_skills.tumbling_tex	Ускоренное уклонение	icon_crest.e_crestactiveattackspeedup_tex	40% вероятность на 10 секунд повысить скорость атаки на 15%.
+21095	Уклонение	20100	icon_skills.tumbling_tex	Ускоренное уклонение	icon_crest.e_crestactiveattackspeedup_tex	50% вероятность на 10 секунд повысить скорость атаки на 15%.
 21097	Круговой удар	170100	icon_skills.stormcut_tex	Усиленный круговой удар	icon_crest.e_crestpassiveattackup_tex	+25% к наносимому умением урону.
 21098	Каскад оглушений	210100	icon_skills.hardslash_tex	Усиленный каскад оглушений (Град ударов)	icon_crest.e_crestnextskillattackup_tex	Повышает урон умения "Град ударов" на 20% на несколько секунд.
 21099	Нарастающая ярость	190100	icon_skills.tenaciousattack_tex	Ошеломляющая нарастающая ярость	icon_crest.e_crestactiveattackspeeddown_tex	20% вероятность на 7 секунд понизить скорость атаки противника на 15%.

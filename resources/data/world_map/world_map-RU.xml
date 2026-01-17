@@ -64,6 +64,10 @@
       <Section id="72" mapId="WMap_DG_PIC_2F" nameId="11010" type="dungeon" />
       <Section id="73" mapId="WMap_DG_PIC_B1F" nameId="11015" type="dungeon" />
     </Guard>
+    <Guard id="7" mapId="WMap_ACN_Guard" nameId="207" continentId="7006">
+      <Section id="4" mapId="WMap_ACN_Field" nameId="1001" />
+      <Section id="58" mapId="WMap_ACN_Vill_01" nameId="1002" />
+    </Guard>
     <Guard id="10" mapId="WMap_AL_Guard" nameId="210" continentId="2">
       <Section id="101" mapId="WMap_AL_City" nameId="72001" />
       <Section id="102" mapId="WMap_AL_Field_01" nameId="72002" />
@@ -214,6 +218,9 @@
       <Section id="9505" mapId="WMap_DG_AWAKEN_VK_D" nameId="506004" type="dungeon" />
       <Section id="9506" mapId="WMap_DG_AWAKEN_VK_N" nameId="506001" type="dungeon" />
       <Section id="9507" mapId="WMap_AWAKEN_Dragon_P" nameId="507001" />
+      <Section id="3943" mapId="WMap_AWAKEN_Dragon_P_Dreadspire" nameId="3943" />
+      <Section id="3304" mapId="WMap_AWAKEN_Dragon_P_Dreadspire" nameId="3304" />
+      <Section id="3904" mapId="WMap_AWAKEN_Dragon_P_Dreadspire" nameId="3904" />
       <Section id="9509" mapId="WMap_DG_AWAKEN_VK_N_02" nameId="506001" type="dungeon" />
       <Section id="9920" mapId="WMap_DG_MagicalPrison" nameId="9920" type="dungeon" />
       <Section id="9720" mapId="WMap_DG_MagicalPrison_01" nameId="9720" type="dungeon" />
@@ -333,11 +340,14 @@
       <Section id="98331" mapId="WMap_DG_AWAKEN_HSC_Loot_Vill" nameId="35001" />
       <Section id="98332" mapId="WMap_DG_AWAKEN_HSC_Loot_Field" nameId="35001" />
       <Section id="3027" mapId="WMap_DG_Colosseum" nameId="3027001" type="dungeon" />
+      <Section id="3927" mapId="WMap_DG_Colosseum" nameId="3097001" type="dungeon" />
       <Section id="3103" mapId="WMap_DG_Gaun_Traning" nameId="3103001" type="dungeon" />
       <Section id="3203" mapId="WMap_LDG_Gaun_Traning" nameId="3203001" type="dungeon" />
     </Guard>
     <Guard id="12" mapId="" nameId="0" continentId="9071">
       <Section id="626" mapId="WMap_DG_SD_06" nameId="9071001" type="dungeon" />
+      <Section id="3106" mapId="WMap_HEN_Empty_3106" nameId="3106002" type="dungeon" />
+      <Section id="3206" mapId="WMap_HEN_Empty_3206" nameId="3206002" type="dungeon" />
       <Section id="9871" mapId="WMap_DG_SD_06_1p" nameId="9871001" type="dungeon" />
       <Section id="9078" mapId="WMap_T3_Field_04" nameId="9078001" type="dungeon" />
       <Section id="3131" mapId="WMap_HEN_Empty_3206" nameId="3131" type="dungeon" />
@@ -428,6 +438,8 @@
       <Section id="97271" mapId="WMap_SWC_SD_02C" nameId="9727002" />
       <Section id="9027" mapId="WMap_SWC_SD_02BH" nameId="9027001" />
       <Section id="90271" mapId="WMap_SWC_SD_02CH" nameId="9027002" />
+      <Section id="3047" mapId="WMap_SWC_SD_02BH" nameId="9027001" />
+      <Section id="30471" mapId="WMap_SWC_SD_02CH" nameId="9027002" />
     </Guard>
     <Guard id="23" mapId="" nameId="0" continentId="0">
       <Section id="3024" mapId="WMap_DG_EX_Guladsh_SD" nameId="3024" type="dungeon" />
@@ -500,9 +512,12 @@
       <Section id="3126" mapId="WMap_LDG_Akalath_Argon" nameId="3026004" type="dungeon" />
       <Section id="2105" mapId="WMap_HEN_Empty_2105" nameId="2105001" />
       <Section id="3102" mapId="WMap_HEN_Empty_3102" nameId="3102001" />
+      <Section id="3152" mapId="WMap_HEN_Empty_3152" nameId="3152001" />
       <Section id="3202" mapId="WMap_HEN_Empty_3202" nameId="3202001" />
       <Section id="3030" mapId="WMap_DG_FDI_FieldBossRaid" nameId="3030" type="dungeon" />
       <Section id="3031" mapId="WMap_DG_FDI_Core_PK_P" nameId="3031001" type="dungeon" />
+      <Section id="3104" mapId="WMap_DG_Rucmia_3104" nameId="3104" />
+      <Section id="3204" mapId="WMap_DG_Rucmia_3204" nameId="3204" />
     </Guard>
     <Guard id="61" mapId="" nameId="0" continentId="0">
       <Section id="9126" mapId="WMap_DG_T5AL5_01" nameId="9126001" type="dungeon" />
@@ -535,6 +550,9 @@
       <Section id="2003007" mapId="WMap_FDI_Vill_04_B1" nameId="2003018" type="dungeon" />
       <Section id="2003019" mapId="WMap_FDI_Vill_04_B2" nameId="2003022" type="dungeon" />
       <Section id="2003020" mapId="WMap_FDI_Vill_04_B3" nameId="2003023" type="dungeon" />
+      <Section id="3153" mapId="WMap_DG_Revolt_Village_01" nameId="3153" type="dungeon" />
+      <Section id="3154" mapId="WMap_DG_ArcDeva_Laboratory" nameId="3154" />
+      <Section id="3982" mapId="WMap_DG_Kubel_Temple_01" nameId="3982" />
     </Guard>
   </World>
 </WorldMap>
