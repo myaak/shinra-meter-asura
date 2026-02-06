@@ -5257,6 +5257,7 @@
 5020021	190	Buff	True	swch	300000	0	2	Divine Judgment			Godlike powers course through your veins. The effect is purely cosmetic.	icon_skills.redmoon_tex	icon_skills.redmoon_tex	True
 5020022	358	Buff	True	abs	0	0	1	Elemagnetic Bait	156376	[Event] Elemagnetic Bait	You can catch sharks that have swallowed Elemental Cores or Fragments.	icon_items.premium_pastebait_01_tex	icon_items.premium_pastebait_01_tex	True
 5020022	362	Buff	True	swch	0	0	156376	Elemagnetic Bait	156376	[Event] Elemagnetic Bait	You can catch sharks that have swallowed Elemental Cores or Fragments.	icon_items.premium_pastebait_01_tex	icon_items.premium_pastebait_01_tex	True
+5030000	CCrystalBind	Buff	True	abs	0	0	1	Complete Crystalbind			Circumvents crystal breakage upon death.	icon_items.q_closedspace_stone_05_tex	icon_items.q_closedspace_stone_05_tex	True
 5030002	HPChange	Buff	True	perc	900000	1	0.01	Emblem of Success	216820	Emblem of Success		icon_items.parts_magicweaponc15_tex	icon_items.parts_magicweaponc15_tex	True
 5030003	MPChange	Buff	True	perc	900000	1	0.05	Power potion - CD, MP regen	216820	Emblem of Success		icon_status.darkriftareatimeshift_tex	icon_status.darkriftareatimeshift_tex	True
 5030003	CDR	Buff	True	perc	900000	0	0.8	Power potion - CD, MP regen	216820	Emblem of Success		icon_status.darkriftareatimeshift_tex	icon_status.darkriftareatimeshift_tex	True
